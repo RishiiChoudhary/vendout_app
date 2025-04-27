@@ -1,7 +1,9 @@
 🚀 VendOut - Product App
 Welcome to the VendOut Product App, your companion for managing and viewing products effortlessly!
 
-
+First Clone this project in VS code using this url :
+  git clone https://github.com/RishiiChoudhary/vendout_app.git
+  
 📦 Project Setup
 1. Initialize the Project
   npm init
